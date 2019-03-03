@@ -1,0 +1,10 @@
+{
+    "name": "blz-bobs-deadlock-crating",
+    "version": "0.1.0",
+    "factorio_version": "0.17",
+    "title": "Little mod to join bobs to deadlock crating",
+    "author": "blizgerg",
+    "homepage": "",
+    "dependencies": ["base", "bobplates", "bobores", "bobelectronics", "bobmodules", "DeadlockCrating" ],
+    "description": "Little mod to add ore and various bobs intermediaries to deadlock crating"
+}
